@@ -37,6 +37,7 @@ class Seviye2Destek extends DestekSeviyesi {
 
         seviye1.setSonrakiSeviye(seviye2);
 
+
         seviye1.destekTalebi(2);
     }
 
